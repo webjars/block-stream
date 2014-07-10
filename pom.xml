@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>block-stream</artifactId>
-    <version>0.0.7-1-SNAPSHOT</version>
+    <version>0.0.7-1</version>
     <name>block-stream</name>
     <description>WebJar for block-stream</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/block-stream</url>
         <connection>scm:git:https://github.com/webjars/block-stream.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/block-stream.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>block-stream-0.0.7-1</tag>
     </scm>
 
     <developers>
